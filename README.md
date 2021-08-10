@@ -1,4 +1,4 @@
-# task_02
+# This program ilustrate the use of Stack and List View in Flutter.
 
 A new Flutter project.
 
